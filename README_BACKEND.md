@@ -325,4 +325,4 @@ npm run lint
 
 ## Licencja
 
-Projekt opracowany dla HackNations 2025
+Projekt opracowany dla HackNations 2025.
